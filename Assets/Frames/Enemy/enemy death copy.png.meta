@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: bc644a15bcf619c4a902cc35c966d846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3307544153059469051
+    second: enemy death copy_0
+  - first:
+      213: 3962248722017108483
+    second: enemy death copy_1
+  - first:
+      213: 2428580793121340645
+    second: enemy death copy_2
+  - first:
+      213: -8980355181629250275
+    second: enemy death copy_3
+  - first:
+      213: -6490308684789092852
+    second: enemy death copy_4
+  - first:
+      213: -1709252987359390789
+    second: enemy death copy_5
+  - first:
+      213: -2882590002172708896
+    second: enemy death copy_6
+  - first:
+      213: -8074018324494844751
+    second: enemy death copy_7
+  - first:
+      213: 6902813320725760446
+    second: enemy death copy_8
+  - first:
+      213: -637252443652541963
+    second: enemy death copy_9
+  - first:
+      213: -2964926239225090749
+    second: enemy death copy_10
+  - first:
+      213: -8939764350853152742
+    second: enemy death copy_11
+  - first:
+      213: -6953875005063686122
+    second: enemy death copy_12
+  - first:
+      213: -3864434932063803975
+    second: enemy death copy_13
+  - first:
+      213: -4614749881990871225
+    second: enemy death copy_14
+  - first:
+      213: -7772109598217349240
+    second: enemy death copy_15
+  - first:
+      213: -5124213823144979366
+    second: enemy death copy_16
+  - first:
+      213: -7432837739891331979
+    second: enemy death copy_17
+  - first:
+      213: -5590479656940802808
+    second: enemy death copy_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy death copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 266
+        height: 140
+      alignment: 9
+      pivot: {x: 0.32379472, y: 0.49163035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a70212e1c6ed20800000000000000
+      internalID: 3307544153059469051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy death copy_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 391
+        width: 266
+        height: 142
+      alignment: 9
+      pivot: {x: 0.30617437, y: 0.4587409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3024393483cbcf630800000000000000
+      internalID: 3962248722017108483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy death copy_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 392
+        width: 266
+        height: 141
+      alignment: 9
+      pivot: {x: 0.31938985, y: 0.49168968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec755a3d5d04b120800000000000000
+      internalID: 2428580793121340645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy death copy_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 393
+        width: 266
+        height: 140
+      alignment: 9
+      pivot: {x: 0.2929598, y: 0.46652156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d156622da8e5f5380800000000000000
+      internalID: -8980355181629250275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy death copy_4
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 391
+        width: 266
+        height: 142
+      alignment: 9
+      pivot: {x: 0.34141597, y: 0.48349643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e638863aacde5a0800000000000000
+      internalID: -6490308684789092852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy death copy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 266
+        height: 136
+      alignment: 9
+      pivot: {x: 0.30176905, y: 0.4913844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb31b29c6738748e0800000000000000
+      internalID: -1709252987359390789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy death copy_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 131
+        width: 266
+        height: 136
+      alignment: 9
+      pivot: {x: 0.2973641, y: 0.50000036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e737676aabfef7d0800000000000000
+      internalID: -2882590002172708896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
