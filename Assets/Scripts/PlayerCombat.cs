@@ -8,6 +8,8 @@ public class PlayerCombat : MonoBehaviour
     public Transform attackpoint;
     public float attackrange = .5f;
     public LayerMask enemylayer;
+
+    private int coinCount=0;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,10 @@ public class PlayerCombat : MonoBehaviour
         if (Input.GetMouseButton(0))
         {
             Attack();
+        }
+        if (Input.GetKeyDown(KeyCode.Q) && coinCount >= 3)
+        {
+            Debug.Log("Special Attacked!");
         }
 
     }
@@ -37,5 +43,14 @@ public class PlayerCombat : MonoBehaviour
     private void OnDrawGizmosSelected()
     {
         Gizmos.DrawWireSphere(attackpoint.position, attackrange);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Coin"))
+        {
+            Destroy(collision.gameObject);
+            coinCount++;
+        }
     }
 }
